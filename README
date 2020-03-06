@@ -1,0 +1,6 @@
+Simple TCP server/client chat
+
+Compile with
+[[[
+make
+]]]
